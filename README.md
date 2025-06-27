@@ -11,8 +11,8 @@ Key Features:
       🔴 dots = Outside the polygon
 
   
-- 📊 Real-Time Visualization!
+- Real-Time Visualization!
 
-- ♻️ Reset & Clear inputs and output
+- Reset & Clear inputs and output ♻️
 
 ![Screenshot 2025-05-25 123211](https://github.com/user-attachments/assets/89da3457-1f4d-476e-9321-e899af79091d)
